@@ -56,9 +56,10 @@
   }
   .post-navslider::after,
   .view-navslider::after {
-    width: 45%;
-    right: 25%;
+    width: 33%;
+    right: 30%;
   }
+
   .product-head {
     font-size: 1.4rem;
     margin-left: 5px;
