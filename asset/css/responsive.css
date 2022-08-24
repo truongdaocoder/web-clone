@@ -59,7 +59,10 @@
     width: 33%;
     right: 30%;
   }
-
+  .post-item__month {
+    position: relative;
+    top: -2px;
+  }
   .product-head {
     font-size: 1.4rem;
     margin-left: 5px;
